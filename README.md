@@ -46,3 +46,17 @@ Sessions mit festem Thema und Ziel für die jeweilige Session.)
 * Kommunikation (Email, Forum ([Moot](http://moot.it)?) oder
   Facebook/Twitter)
 * Ausblick (Was ist möglich?, Was wäre als nächstes "lernbar"?)
+
+## Tools
+
+* Texteditor, wahrscheinlich [Sublime Text](http://sublimetext.com/)
+* [NeoCities](http://neocities.org) zum Hosten
+
+## Weiterführende Materialien
+
+* [diverse](https://github.com/codegirls/first-steps/blob/master/resources.md#resources)
+* CodeGirls und ähnliche Gruppen
+* Eventuell ein Forum für weitere Fragen, bevorzugt aber wirklich eine
+  Gruppe von Leuten die Zeit dafür hat (Habe ich auch, nur eben nicht
+  immer und bevorzugt eben bei den CodeGirls. Sind aber nicht alle
+  "Girls", also noch andere Gruppen nennen.)
