@@ -9,9 +9,9 @@ als Workshop.)
 ## Zeitplan
 
 * 09:30-11:00:
-    - die erste HTML Datei
-    - Verbesserungen über CSS
+    - die erste HTML Datei (Aufbau; `h1`..`h6`, `p`, `em`, `strong`)
     - erstes (vorgefertigtes) Design
+    - Verbesserungen über CSS
 * 11:15-12:45:
     - HTML kann auch: Bilder, Videos, Lieder, ...
     - Links zwischen Seiten (mehrere Seiten)
