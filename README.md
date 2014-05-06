@@ -8,21 +8,24 @@ als Workshop.)
 
 ## Zeitplan
 
-* 09:30-11:00:
+* 09:30-11:00: Hallo, Web!
     - die erste HTML Datei (Aufbau; `h1`..`h6`, `p`, `em`, `strong`)
     - erstes (vorgefertigtes) Design
-    - Verbesserungen über CSS
-* 11:15-12:45:
+    - einfache Verbesserungen über CSS
+* 11:15-12:45: Mehr HTML
     - HTML kann auch: Bilder, Videos, Lieder, ...
     - Links zwischen Seiten (mehrere Seiten)
-* 13:15-14:45:
-    - Online stellen
-    - ???
-* 15:00-16:30:
-    - ???
+* 13:15-14:45: Mehr CSS
+    - Aussehen der gesamten Webseite verändern
+    - spezielle Anwendungsfälle (Gallerien, ...)
+* 15:00-16:30: Veröffentlichen
+    - mit Neocities
+    - mit Wordpress falls Interesse besteht
+    - Möglichkeiten zur Integration von Kommunikation (Email, Kommentare)
 * 17:00-18:00:
-    - ??? (eventuell je nach Wünschen, das wäre sowieso gut: je nach
-      Interessen verschiedene austauschbare Komponenten)
+    - je nach Interessen/Wünschen, zB.:
+        * ein bisschen JavaScript (Interaktivität)
+        * Tipps für weiteres Lernen & nützliche Werkzeuge
 
 Generelle Ziele für die einzelnen Sessions:
 
