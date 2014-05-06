@@ -54,6 +54,9 @@ Sessions mit festem Thema und Ziel für die jeweilige Session.)
 
 * Texteditor, wahrscheinlich [Sublime Text](http://sublimetext.com/)
 * [NeoCities](http://neocities.org) als Webhost
+* eventuell [Wordpress](http://wordpress.com) (das würde zwar schneller
+    zum Erfolg führen aber man würde weniger lernen und weniger
+    Freiheiten in der Gestaltung haben)
 
 ## Weiterführende Materialien
 
