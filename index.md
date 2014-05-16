@@ -12,6 +12,7 @@
         - nur HTML
         - Nutzung vorgefertigter Styles
         - kleine Anpassungen
+            - `font`, `color`, `align`, `background`
 * Mehr HTML
     - HTML kann auch ...
         - Bilder
@@ -21,6 +22,8 @@
         - "interne" und "externe" Links
 * Mehr CSS
     - Struktur von CSS
+        - Selektoren (Ids, Klassen, Schachtelung)
+        - Regeln
     - Austauschen der vorgefertigten Styles
         - Blog
         - Header + Unterseiten
