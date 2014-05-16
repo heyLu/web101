@@ -1,5 +1,13 @@
 # Einführung
 
+## Ziele
+
+* Grundlagen der Erstellung und Gestaltung von Webseiten
+* Verständnis der Grundprinzipien des Webs
+* Erstellung einer vollständigen Webseite
+* Wissen wie und wo man mehr zu den Themen Lernen kann
+* Überblick über die Grenzen und Möglichkeiten
+
 ## Was ist "das Web"?
 
 * Webseiten
