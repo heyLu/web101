@@ -22,6 +22,9 @@
 * Mehr CSS
     - Struktur von CSS
     - Austauschen der vorgefertigten Styles
+        - Blog
+        - Header + Unterseiten
+        - Grid
     - Anwendungsfälle
         - Gallerien
         - Header/Footer
