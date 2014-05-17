@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+
+body { margin: 0; }
+
+#header {
+	width: 100%;
+	background-color: rgba(209, 209, 209, 1);
+	overflow: hidden;
+}
+
+#header h1 { margin: 0; padding: 0.15em 0.5em; float: left; }
+
+#header ul {
+	float: right;
+	margin: 0;
+	list-style-type: none;
+}
+
+#header li {
+	float: left;
+	padding: 1em;
+
+	text-align: center;
+}
+
+#header h1:hover, #header li:hover {
+	background-color: rgba(182, 182, 182, 1);
+}
