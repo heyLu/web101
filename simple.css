@@ -6,5 +6,7 @@ body {
     max-width: 800px;
 }
 
+code { background-color: #f5f5f5; }
+
 li { line-height: 1.3em; }
 li > p { margin: 0; }
