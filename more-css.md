@@ -16,6 +16,9 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
     - Blog
     - ein Tumblr-ähnlicher Blog
     - einzelne Artikel
+* weitere Anwendungen:
+    - Grids
+    - Gallerien mit [Lightbox](http://www.lokeshdhakar.com/projects/lightbox2/)
 * Wünsche?
 
 # Wie setzt man Design-Ideen mit CSS um?
@@ -44,16 +47,24 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 * alternativ: Navigationsleiste etwas weiter unterhalb, zB. nach
     einem Bild ([siehe unten](#tumblry))
 
-# Blog
+# Vorgefertigte Stile
+
+## Blog
 
 [(Beispiel anschauen)](pretty-blog.html)
 
-# Tumblry
+## Tumblry
 
 [(Beispiel anschauen)](tumblry.html)
 
-# Großer Artikel
+## Großer Artikel
 
 [(Beispiel anschauen)](article.html)
+
+# Resourcen
+
+* [Übersicht mit CSS Properties][mdn-css-reference] (englisch)
+
+[mdn-css-reference]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 # Weiter geht es mit dem [Veröffentlichen](publishing.html)
