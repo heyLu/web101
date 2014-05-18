@@ -117,8 +117,6 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
             max-width: 800px; /* legt die maximale Breite des Textes fest */
         }
         </style>
-- mit CSS lässt sich am besten "live" experimentieren, dafür gibt es die
-    "Developer Tools" des Browsers (`Ctrl-Shift-I`)
 - Beispiele:
     * `color` (Schriftfarbe)
     * `background-color` (Hintergrundfarbe)
@@ -139,3 +137,5 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
         und der Text von Links wird grün angezeigt.
 
         [(Beispiel anschauen)](examples/03-colors.html)
+- mit CSS lässt sich am besten "live" experimentieren, dafür gibt es die
+    "Developer Tools" des Browsers (`Ctrl-Shift-I`)
