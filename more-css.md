@@ -21,9 +21,15 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
     - Gallerien mit [Lightbox](http://www.lokeshdhakar.com/projects/lightbox2/)
 * Wünsche?
 
-# Wie setzt man Design-Ideen mit CSS um?
+# CSS Grundlagen
 
 * die Elemente der Seite befinden sich in Rechtecken ("boxes")
+* wichtige Eigenschaften:
+    - `margin`, `padding`
+    - `width`, `max-width`
+
+# Wie setzt man Design-Ideen mit CSS um?
+
 * Elemente können
     - fixiert werden (zB. eine Navigationsleiste ganz oben)
     - an einem Grid ausgerichtet werden
