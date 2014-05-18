@@ -62,3 +62,47 @@ layout: page
 
 ## Die erste Webseite
 
+* erster Versuch: nur Text
+    - eigener oder [generierter Text](http://loripsum.net/api/5/plaintext)
+    - Datei `webseite.html` erstellen und den Text dort hinein kopieren
+        * dazu brauchen wir einen Texteditor (Text ≠ Dokument)
+    - im Browser anschauen
+* da fehlt irgendwie noch etwas ...
+* HTML: (**H**yper**T**ext **M**arkup **L**anguage)
+    - besteht aus *Elementen* die mithilfe von *Tags* ausgezeichnet werden
+        (damit der Browser weiß was gemeint ist)
+    - Beispiel
+
+            <p>Das ist ein Absatz.
+            HTML ignoriert Zeilenumbrüche, wenn wir also Zeilenumbrüche haben
+            wollen müssen neue Absätze erzeugen</p>
+
+            <p>Wir können ein bisschen schummeln indem wir das `br`-Element
+            verwenden. Zum Beispiel so:
+            <br />
+            Allerdings ist das nicht besonders guter Stil, d.h. meistens
+            verwendet man einfach mehrere Absätze.</p>
+    - Tags haben also einen Anfang und ein Ende, dazwischen steht der normale
+        Text
+        * Anfang: `<p>` (öffnendes Tag)
+        * Ende: `</p>` (schließendes Tag)
+    - andere Tags:
+        * `h1`, `h2`, `h3`, `h4`, `h5` und `h6`: Überschriften
+        * `em`: "Betonung", wird meist kursiv angezeigt
+        * `strong`: stärkere Betonung, wird meist fett angezeigt
+    - ausprobieren!
+* das sieht noch nicht besonders schön aus, dafür gibt es CSS
+    (**C**ascading **S**tyle **S**heets)
+    - für den Anfang kopiert einfach das folgende HTML an den Anfang eurer Datei
+
+            <style>
+            body {
+                margin: 0 auto;   /* zentriert den Text */
+                max-width: 800px; /* legt die maximale Breite des Textes fest */
+            }
+            </style>
+    - mit CSS lässt sich am besten "live" experimentieren, dafür gibt es die
+        "Developer Tools" des Browsers (`Ctrl-Shift-I`)
+    - Beispiele:
+        * `color` (Schriftfarbe)
+        * `font-size` (Schriftgröße) und `font-family` (Schriftart)
