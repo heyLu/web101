@@ -1,0 +1,48 @@
+/* inspired by http://jacobian.org/writing */
+
+body {
+    margin: 0;
+    color: #333;
+}
+
+.article header, .content {
+    font-size: 15pt;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.article header {
+    border-bottom: 1ex #222 solid;
+    padding: 3em;
+}
+
+.article header h1 {
+    font-size: 40pt;
+    margin: 0;
+    text-align: center;
+}
+
+.article header time {
+    color: #444;
+    display: block;
+    margin: 0.5em auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.article .comments {
+    background-color: #ddd;
+    padding: 2em 0;
+}
+
+#footer {
+    background-color: #333;
+    color: #777;
+    padding: 3em 0;
+    text-align: center;
+}
+
+#footer a {
+    color: #777;
+    font-weight: bold;
+}

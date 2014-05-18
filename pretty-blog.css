@@ -1,0 +1,64 @@
+/* inspired by http://thatgirlthere.wordpress.com */
+
+body { background-color: #efefef; }
+
+#header, #content {
+    background-color: #fefefe;
+    max-width: 80%;
+    margin: 1em auto;
+    padding: 1em;
+}
+
+#title {
+    float: left;
+    line-height: 1.1em;
+}
+#title h1 {
+    font-size: 30pt;
+    margin-bottom: 0.1em;
+}
+#title h2 {
+    font-size: 20pt;
+    color: #888;
+}
+
+#nav { float: right; }
+
+#nav ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+#nav li {
+    float: left;
+    padding: 0.5em 1em;
+    margin-bottom: 0.5em;
+}
+
+#nav li:hover {
+    background-color: rgba(237, 219, 219, 1);
+}
+
+#header img {
+    padding: 0 2em;
+    max-width: 100%;
+}
+
+@media (max-width: 575px) {
+    #title {
+	float: none;
+	text-align: center;
+    }
+
+    #nav { float: none; }
+
+    #nav li {
+	float: none;
+	padding: 0.5em;
+	text-align: center;
+    }
+}
+
+@media (max-width: 1300px) {
+    #header img { padding: 0; }
+}
