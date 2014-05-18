@@ -69,10 +69,12 @@ deutsch:
 
 englisch:
 
-* [HTML & CSS Kurs bei Codecademy](http://www.codecademy.com/tracks/web)
-* [Übersicht zu CSS Properties][mdn-css-reference]
+* [Learn CSS Layout](http://learnlayout.com/), erklärt die Grundlagen sehr
+    gut in aufeinander aufbauenden Schritten
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [An Advanced Guid to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [HTML & CSS Kurs bei Codecademy](http://www.codecademy.com/tracks/web)
+* [Übersicht zu CSS Properties][mdn-css-reference]
 * [CSS Diner- Where we feast on CSS Selectors](http://flukeout.github.io),
     ein Spiel zum Verständnis von CSS Selektoren
 
