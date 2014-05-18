@@ -50,16 +50,16 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 
 * feste Leiste mit Navigationselementen am oberen Rand der Seite
 
-[(Beispiel anschauen)](header.html)
+[(Beispiel anschauen)](examples/header.html)
 
 * alternativ: Navigationsleiste etwas weiter unterhalb, zB. nach
     einem Bild ("tumblry" Stil)
 
 # Vorgefertigte Stile
 
-* Blog, [(Beispiel anschauen)](pretty-blog.html)
-* Tumblry, [(Beispiel anschauen)](tumblry.html)
-* großer Artikel, [(Beispiel anschauen)](article.html)
+* Blog, [(Beispiel anschauen)](examples/pretty-blog.html)
+* Tumblry, [(Beispiel anschauen)](examples/tumblry.html)
+* großer Artikel, [(Beispiel anschauen)](examples/article.html)
 
 # Weiterführende Links
 
