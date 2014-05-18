@@ -72,11 +72,27 @@ englisch:
 * [Learn CSS Layout](http://learnlayout.com/), erklärt die Grundlagen sehr
     gut in aufeinander aufbauenden Schritten
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [An Advanced Guid to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [HTML & CSS Kurs bei Codecademy](http://www.codecademy.com/tracks/web)
 * [Übersicht zu CSS Properties][mdn-css-reference]
 * [CSS Diner- Where we feast on CSS Selectors](http://flukeout.github.io),
     ein Spiel zum Verständnis von CSS Selektoren
+
+## Tools
+
+* [Gridism](http://cobyism.com/gridism), einfaches Grid Framework
+* [Bootstrap](http://getbootstrap.com), populäres, sehr umfangreiches
+    CSS Framework
+* [Can I Use](http://caniuse.com), Übersicht für die Browser-Unterstützung
+    von neueren CSS & HTML Elementen
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/), viele
+    Icons für Webseitendesign
+* kommerziell:
+    - [Webflow](https://webflow.com/), online Designer für Webseiten (nur in
+        sehr kleinem Rahmen kostenfrei nutzbar, für kleine Projekte eventuell
+        lohneswert wenigstens zum herumspielen)
+    - [Macaw](http://macaw.co/), ebenfalls ein Design Programm für Webseiten,
+        es gibt eine [Ausprobier-Version](http://download.macaw.co/)
 
 [mdn-css-reference]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
