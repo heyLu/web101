@@ -27,6 +27,17 @@ li > p { margin: 0; }
     padding: 1em;
 }
 
+#rights {
+    border-top: 1px solid #efefef;
+    color: #aaa;
+    font-size: smaller;
+    text-align: center;
+}
+
+#rights a {
+    color: #aaa;
+}
+
 @media (max-width: 1050px) {
     body { margin: 0 1em; }
 
