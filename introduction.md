@@ -34,9 +34,11 @@ layout: page
                     
                     <p>Man kann sich diesen Text auch von jeder Webseite anschauen.</p>
 
-                    <p>Und das wichtigste: Links sehen <a href="a_link">so aus!</a></p>
+                    <p>Und das wichtigste: Links sehen <a href="../introduction.html">so aus!</a></p>
                 </body>
             </html>
+
+        [(Beispiel anschauen)](examples/01-structure.html)
     - befinden sich (meistens) auf einem Server (man kann sie aber auch
       lokal entwickeln und speichern, dann kann sie nur ebend niemand
       anders sehen)
@@ -82,6 +84,8 @@ layout: page
             <br />
             Allerdings ist das nicht besonders guter Stil, d.h. meistens
             verwendet man einfach mehrere Absätze.</p>
+
+        [(Beispiel anschauen)](examples/02-paragraphs.html)
     - Tags haben also einen Anfang und ein Ende, dazwischen steht der normale
         Text
         * Anfang: `<p>` (öffnendes Tag)
