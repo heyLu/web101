@@ -1,6 +1,11 @@
+---
+title: Hallo, Web
+layout: page
+---
+
 # Hallo, Web
 
-* Einführung
+* [Einführung](introduction.html)
     - Vorstellung, Wünsche, Ziele
     - Was ist "das Web"?
         - Webseiten
