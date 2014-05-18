@@ -61,6 +61,27 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 * Tumblry, [(Beispiel anschauen)](examples/tumblry.html)
 * großer Artikel, [(Beispiel anschauen)](examples/article.html)
 
+# Grids
+
+* die Platzierung von Elementen nebeneinander ist etwas kompliziert ohne
+    weitere Hilfen
+* deswegen: Verwendung von Grids (werden schon lange für nicht-web Design
+    verwendet)
+* hier: [Gridism](http://cobyism.com/gridism)
+
+<!-- ... -->
+
+    <div class="grid">
+        <div class="unit whole red"><pre>groß</pre></div>
+    </div>
+
+    <div class="grid">
+        <div class="unit half green"><pre>halb</pre></div>
+        <div class="unit half orange"><pre>und halb</pre></div>
+    </div>
+
+[(Beispiel anschauen)](examples/09-grid.html)
+
 # Weiterführende Links
 
 deutsch:
