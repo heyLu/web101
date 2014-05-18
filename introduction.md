@@ -41,7 +41,7 @@ layout: page
 
     [(Beispiel anschauen)](examples/01-structure.html)
 - befinden sich (meistens) auf einem Server (man kann sie aber auch
-  lokal entwickeln und speichern, dann kann sie nur ebend niemand
+  lokal entwickeln und speichern, dann kann sie nur eben niemand
   anders sehen)
 
 ### Client/Server
