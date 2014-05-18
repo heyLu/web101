@@ -17,15 +17,15 @@ layout: page
         - nur HTML
         - Nutzung vorgefertigter Styles
         - kleine Anpassungen
-            - `font`, `color`, `align`, `background`
-* Mehr HTML
+            - `font`, `color`, `text-align`, `background`
+* [Mehr HTML](more-html.html)
     - HTML kann auch ...
         - Bilder
         - Videos
         - Ton
     - mehrere Seiten (Links)
         - "interne" und "externe" Links
-* Mehr CSS
+* [Mehr CSS](more-css.html)
     - Struktur von CSS
         - Selektoren (Ids, Klassen, Schachtelung)
         - Regeln
@@ -37,7 +37,7 @@ layout: page
         - Gallerien
         - Header/Footer
         - ...
-* Veröffentlichen
+* [Veröffentlichen](publishing.html)
     - Neocities
     - Wordpress (bei Interesse)
     - Kommunikation
