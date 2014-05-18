@@ -25,8 +25,10 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 
 * die Elemente der Seite befinden sich in Rechtecken ("boxes")
 * wichtige Eigenschaften:
+    - `position`
     - `margin`, `padding`
     - `width`, `max-width`
+    - `border`
 
 # Wie setzt man Design-Ideen mit CSS um?
 
