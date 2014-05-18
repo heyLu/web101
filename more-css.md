@@ -55,3 +55,5 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 # Großer Artikel
 
 [(Beispiel anschauen)](article.html)
+
+# Weiter geht es mit dem [Veröffentlichen](publishing.html)
