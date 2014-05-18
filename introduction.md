@@ -74,7 +74,7 @@ Erster Versuch: nur Text
 - eigener oder [generierter Text](http://loripsum.net/api/5/plaintext)
 - Datei `webseite.html` erstellen und den Text dort hinein kopieren
     * dazu brauchen wir einen Texteditor (Text ≠ Dokument)
-- im Browser anschauen
+- im Browser anschauen [(Beispiel)](examples/00-justtext.html)
 
 Da fehlt irgendwie noch etwas ...
 
