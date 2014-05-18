@@ -6,6 +6,12 @@ body {
     max-width: 800px;
 }
 
+h1 {
+    border-left: 0.2em solid #d49434;
+    margin-left: -1em;
+    padding-left: 1em;
+}
+
 h1 a { text-decoration: none; }
 h1:hover a { text-decoration: underline; }
 
