@@ -10,6 +10,9 @@
 - Text -> webseite.html -> Browser
 - mh...
 - HTML zeichnet bestimmte Elemente von Dokumente aus
+- HTML Element: "tags" um den Inhalt herum, zB. `<p>Das ist ein Absatz.</p>`
+    (öffnende und schließende Tags, später auch "selbstschließende" Tags
+     und Tags mit Attributen)
 - Absätze, Überschriften, Bilder, Videos, Listen, Tabellen, ...
 - also fangen wir mit einer Überschrift und Absätzen an (`h1`...`h6`, `p`)
 - ok, etwas besser
@@ -25,7 +28,7 @@
 - ein paar mehr Elemente: `em`, `strong`
 
 - mhh... was ist eigentlich mit Bildern & co?
-- `img`, videos, ...
+- `img`, videos, ... (Tags mit Attributen)
 - (Tabellen)
 - wie kommt man von Webseite zu Webseite? mithilfe von Links (`a`)
 - mehrere Seiten? seite1.html, seite2.html + links
