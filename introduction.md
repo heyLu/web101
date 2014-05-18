@@ -139,3 +139,11 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
         [(Beispiel anschauen)](examples/03-colors.html)
 - mit CSS lässt sich am besten "live" experimentieren, dafür gibt es die
     "Developer Tools" des Browsers (`Ctrl-Shift-I`)
+
+## Wie geht es weiter?
+
+Ok, jetzt wissen wir ungefähr wie Webseiten aufgebaut sind, aber was ist mit
+Bildern, Videos und gut aussehenden Webseiten?
+
+* [Mehr HTML](more-html.html) (Bilder, Videos, Listen, Tabellen)
+* [Mehr CSS](more-css.html) (schönere Webseiten)
