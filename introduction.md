@@ -121,7 +121,9 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
     * `color` (Schriftfarbe)
     * `background-color` (Hintergrundfarbe)
     * `font-size` (Schriftgröße) und `font-family` (Schriftart)
-- Syntax: *Selektor* und dazugehörige *Regeln*
+        - [Google Fonts](http://google.com/fonts) bietet eine große Anzahl
+            von Schriftarten an, ["gute" Schriftarten][good-fonts] davon
+- Struktur: *Selektor* und dazugehörige *Regeln*
     * d.h. CSS-Anweisungen betreffen immer bestimmte HTML Elemente
     * Beispiel
 
@@ -139,6 +141,8 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
         [(Beispiel anschauen)](examples/03-colors.html)
 - mit CSS lässt sich am besten "live" experimentieren, dafür gibt es die
     "Developer Tools" des Browsers (`Ctrl-Shift-I`)
+
+[good-fonts]: http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/
 
 ## Wie geht es weiter?
 
