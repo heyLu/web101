@@ -1,3 +1,8 @@
+---
+title: Einführung
+layout: page
+---
+
 # Einführung
 
 ## Ziele
@@ -14,25 +19,24 @@
     - haben eine Adresse (URL)
     - werden vom Browser heruntergeladen & angezeigt
     - eigentlich nur Text (HTML-Code)
-
-        ```
-        <!doctype html>
-        <html>
-            <head>
-                <title>Hallo, Web!</title>
-                <meta charset="utf-8" />
-            </head>
         
-            <body>
-                <h1>Hallo, Web!</h2>
+            <!doctype html>
+            <html>
+                <head>
+                    <title>Hallo, Web!</title>
+                    <meta charset="utf-8" />
+                </head>
                 
-                <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier.</p>
+                <body>
+                    <h1>Hallo, Web!</h2>
+            
+                    <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier.</p>
+                    
+                    <p>Man kann sich diesen Text auch von jeder Webseite anschauen.</p>
 
-                <p>Man kann sich diesen Text auch von jeder Webseite anschauen.</p>
-
-                <p>Und das wichtigste: Links sehen <a href="a_link">so aus!</a></p>
-            </body>
-        </html>
+                    <p>Und das wichtigste: Links sehen <a href="a_link">so aus!</a></p>
+                </body>
+            </html>
     - befinden sich (meistens) auf einem Server (man kann sie aber auch
       lokal entwickeln und speichern, dann kann sie nur ebend niemand
       anders sehen)
@@ -58,4 +62,3 @@
 
 ## Die erste Webseite
 
-...
