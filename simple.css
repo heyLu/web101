@@ -5,3 +5,6 @@ body {
     margin: 0 auto;
     max-width: 800px;
 }
+
+li { line-height: 1.3em; }
+li > p { margin: 0; }
