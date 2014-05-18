@@ -45,25 +45,28 @@ Je nachdem was euch interessiert können wir mit folgenden Dingen weitermachen:
 [(Beispiel anschauen)](header.html)
 
 * alternativ: Navigationsleiste etwas weiter unterhalb, zB. nach
-    einem Bild ([siehe unten](#tumblry))
+    einem Bild ("tumblry" Stil)
 
 # Vorgefertigte Stile
 
-## Blog
+* Blog, [(Beispiel anschauen)](pretty-blog.html)
+* Tumblry, [(Beispiel anschauen)](tumblry.html)
+* großer Artikel, [(Beispiel anschauen)](article.html)
 
-[(Beispiel anschauen)](pretty-blog.html)
+# Weiterführende Links
 
-## Tumblry
+deutsch:
 
-[(Beispiel anschauen)](tumblry.html)
+* [SelfHTML](http://wiki.selfhtml.org/wiki/Startseite)
 
-## Großer Artikel
+englisch:
 
-[(Beispiel anschauen)](article.html)
-
-# Resourcen
-
-* [Übersicht mit CSS Properties][mdn-css-reference] (englisch)
+* [HTML & CSS Kurs bei Codecademy](http://www.codecademy.com/tracks/web)
+* [Übersicht zu CSS Properties][mdn-css-reference]
+* [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [An Advanced Guid to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [CSS Diner- Where we feast on CSS Selectors](http://flukeout.github.io),
+    ein Spiel zum Verständnis von CSS Selektoren
 
 [mdn-css-reference]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 

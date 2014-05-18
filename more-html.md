@@ -137,10 +137,17 @@ Links zwischen den eigenen Seiten auf fast jeder Webseite.
 
 ## Weitergehende Links
 
+deutsch:
+
+* [SelfHTML](http://wiki.selfhtml.org/wiki/Startseite)
+
+englisch:
+
 * [Twine](http://twinery.org/), interaktive, nicht-lineare Geschichten
     (eine fortgeschrittene Variante der Verwendung von Links um Geschichten
      zu erzählen)
-* [Übersicht über HTML Elemente][html-elements] (englisch)
+* [HTML & CSS Kurs bei Codecademy](http://www.codecademy.com/tracks/web)
+* [Übersicht über HTML Elemente][html-elements]
 * alternativ eine [andere Übersicht][mdn-elements] mit mehr Erklärungen und
     Beispielen (es gibt auch eine unvollständige
     [deutsche Version][mdn-elements-de])
