@@ -123,3 +123,19 @@ Das sieht noch nicht besonders schön aus, dafür gibt es CSS:
     * `color` (Schriftfarbe)
     * `background-color` (Hintergrundfarbe)
     * `font-size` (Schriftgröße) und `font-family` (Schriftart)
+- Syntax: *Selektor* und dazugehörige *Regeln*
+    * d.h. CSS-Anweisungen betreffen immer bestimmte HTML Elemente
+    * Beispiel
+
+            body {
+                color: red;
+            }
+
+            a {
+                color: green;
+            }
+
+        D.h. der Text innerhalb des `body`-Elementes wird rot angezeigt
+        und der Text von Links wird grün angezeigt.
+
+        [(Beispiel anschauen)](examples/03-colors.html)
