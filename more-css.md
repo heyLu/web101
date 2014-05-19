@@ -117,4 +117,18 @@ englisch:
 
 [mdn-css-reference]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
+## Inspiration
+
+* [A List Apart](http://alistapart.com)
+* [clairelegrand.tumblr.com](http://clairelegrand.tumblr.com/post/77700679900/the-importance-of-the-unlikable-heroin)
+* der Blog von [Danielle Sucher](http://www.daniellesucher.com/blog/)
+* [Die Eskapistin](http://thatgirlthere.wordpress.com/)
+* [Hacker School](http://hackerschool.com)
+* [incisive.nu](http://incisive.nu/2014/thinking-about-mozilla/)
+* [jacobian.org](www.jacobian.org/writing/)
+* [Holstee Manifesto](http://holstee.com/pages/manifesto)
+* [tomayko.com](http://tomayko.com/writings/adopt-an-open-source-process-constraints)
+* [Wizard for Mac](http://wizardmac.com/)
+* [Dash](http://kapeli.com/dash)
+
 # Weiter geht es mit dem [Veröffentlichen](publishing.html)
